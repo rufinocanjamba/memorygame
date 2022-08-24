@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+@font-face {
+    font-family:'bird';
+    src: url(/fonts/angrybirds-regular.ttf) format('opentype');
+}
+
+@font-face {
+    font-family:'kirb';
+    src: url(/fonts/kirbyss.ttf) format('opentype');
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    border: none;
+    font-family: 'Press Start 2P', cursive;
+}
+
